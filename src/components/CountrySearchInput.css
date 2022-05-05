@@ -1,0 +1,38 @@
+#searchBox {
+    padding: 0.8rem;
+    border-radius: 2rem;
+    border: none;
+    margin-left: 1rem;
+    font-size: 1rem;
+    min-width: 300px;
+    border: 1px solid black;
+    background-color: aliceblue;
+  }
+  
+  #searchBox:focus {
+    outline: none;
+    box-shadow: 0 0 4px 3px var;
+  }
+  #heading{
+      border: 1px ;
+      background-color: aqua;
+      text-align: center;
+      padding :10px;
+      margin: 15px 5px ;
+  }
+
+  form{
+      display:flex;
+      justify-content: center;
+      padding: 20px;
+    }
+  button{
+
+        margin:10px ;
+        margin-left: 20px;
+        padding:10px;
+        font-size:15px;
+        background-color:rgb(83, 216, 183);
+        border-radius: 7px;
+    }
+    
