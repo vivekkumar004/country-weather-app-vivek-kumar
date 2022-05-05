@@ -1,0 +1,21 @@
+.container{
+    text-align: center;
+    margin: 50px 200px;
+}
+
+h2{
+    border: 1px solid white ;
+    padding: 2px;
+    background-color:rgb(11, 219, 115) ;
+}
+ul{
+    list-style-type:none;
+    padding:40px;
+    background-color: rgba(57, 58, 55, 0.966);
+    color: white;
+}
+li{
+    margin:10px;
+    font-weight:bold;
+}
+
